@@ -1,0 +1,1 @@
+DeviseEvaluation::Application.config.secret_key_base = '481d22402ecad341ee09c7262b1685476f817da35e2bda5d26c312997cc9bb6c61a1d7290af867a5cbe4173b5666463ab671ea0166d8d50538565897e5c83ac9'
